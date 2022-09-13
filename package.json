@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "multer": "^1.4.5-lts.1"
+  },
+  "name": "spa",
+  "version": "1.0.0",
+  "description": "A javacript single page application",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "author": "Addo Constant",
+  "license": "ISC"
+}
